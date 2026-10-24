@@ -23,6 +23,3 @@ Add the actual tools used to create this project, such as Microsoft Excel or Pow
 - Sales and profitability reporting.
 - Comparing performance across regions and customer segments.
 - Presenting business metrics in a clear visual format.
-
-## Author
-Data Analytics Portfolio Project
