@@ -13,7 +13,7 @@ This project presents a sales and operational performance dashboard designed to 
 - **Interactive Filters:** Explore results by Order Priority and Ship Mode.
 
 ## Tools Used
-Add the actual tools used to create this project, such as Microsoft Excel or Power BI.
+Add the actual tools used to create this project, such as Microsoft Excel.
 
 ## Key Learning Outcomes
 - Dashboard design and data visualization.
