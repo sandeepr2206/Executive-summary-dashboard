@@ -15,9 +15,6 @@ This project presents a sales and operational performance dashboard designed to 
 ## Tools Used
 Add the actual tools used to create this project, such as Microsoft Excel or Power BI.
 
-## Files Included
-- `Executive_Summary_Dashboard_A4.pdf` — Dashboard report in A4 landscape format.
-
 ## Key Learning Outcomes
 - Dashboard design and data visualization.
 - Sales and profitability reporting.
